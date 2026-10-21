@@ -1,0 +1,6 @@
+C104,Data Analytics,Online,abc,10,2026-12-31 Basefee cannot be non-numeric or negative.
+C105,Cloud Fundamentals,Online,18000,0, Something in the required fields is empty.
+C106,Web Development,Hybrid,25000,5,2026-12-31 Invalid mode of coursework.
+C101,Advanced Python,Online,12000,10,2026-12-31 Cannot have same Course ID's for two courses
+C107,Java Programming,Classroom,-5000,5,2026-12-31 Basefee cannot be non-numeric or negative.
+C108,Web API Development,Online,25000,10,invalid-date OfferEndDate is not a valid date (expected YYYY-MM-DD).

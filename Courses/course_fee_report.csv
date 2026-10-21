@@ -1,0 +1,3 @@
+CourseID = C101, CourseName = Python Programming, CourseType = Classroom, BaseFee = 20000.0, CourseAdjustmentFee = 22000.0, OfferDiscountPercent = 5.0, OfferEndDate = 2026-12-31, OfferStatus = WithOffer, OfferDiscountAmount = 1100.0, FinalFee = 20900.0
+CourseID = C102, CourseName = SQL Fundamentals, CourseType = Online, BaseFee = 15000.0, CourseAdjustmentFee = 13500.0, OfferDiscountPercent = 10.0, OfferEndDate = 2026-10-01, OfferStatus = WithoutOffer, OfferDiscountAmount = 0, FinalFee = 13500.0
+CourseID = C103, CourseName = Full Stack Development, CourseType = Classroom, BaseFee = 30000.0, CourseAdjustmentFee = 32000.0, OfferDiscountPercent = 15.0, OfferEndDate = 2026-11-30, OfferStatus = WithOffer, OfferDiscountAmount = 4800.0, FinalFee = 27200.0
